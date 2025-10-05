@@ -41,3 +41,11 @@ I'm currently an engineering student seeking internships and job opportunities. 
 <a href="https://github.com/Dhanyasri7/repo2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanyasri7&repo=repo2&theme=radical" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph.svg">
+</picture>
+
+###
