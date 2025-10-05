@@ -27,9 +27,7 @@ I'm currently an engineering student seeking internships and job opportunities. 
 
 ### Let's Have Some Fun! 🎮
 
-
-
-<img src="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Dhanyasri7/Dhanyasri7/blob/output/github-snake-dark.svg)
 
 ###
 
