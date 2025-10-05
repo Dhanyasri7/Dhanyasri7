@@ -33,14 +33,6 @@ I'm currently an engineering student seeking internships and job opportunities. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanyasri7&layout=compact&theme=radical)
 
-### Featured Repositories
-
-<a href="https://github.com/Dhanyasri7/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanyasri7&repo=repo1&theme=radical" />
-</a>
-<a href="https://github.com/Dhanyasri7/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanyasri7&repo=repo2&theme=radical" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph-dark.svg">
