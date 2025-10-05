@@ -34,10 +34,35 @@ I'm currently an engineering student seeking internships and job opportunities. 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanyasri7&layout=compact&theme=radical)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dhanyasri7/Dhanyasri7/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Pac-Man -->
+    <circle cx="25" cy="25" r="20" fill="yellow">
+      <animate attributeName="r" values="20;20;20" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <path fill="black" d="M25 25 L45 15 A20 20 0 1 1 45 35 Z">
+      <animateTransform attributeName="transform" type="rotate" from="0 25 25" to="45 25 25" dur="0.3s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Dots -->
+    <circle cx="70" cy="25" r="5" fill="white">
+      <animate attributeName="cx" values="70;65;70" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="100" cy="25" r="5" fill="white">
+      <animate attributeName="cx" values="100;95;100" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="130" cy="25" r="5" fill="white">
+      <animate attributeName="cx" values="130;125;130" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="25" r="5" fill="white">
+      <animate attributeName="cx" values="160;155;160" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
+
+<p align="center">
+  <b>Dhanya is munching through code!</b>
+</p>
+
 
 ###
