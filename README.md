@@ -15,9 +15,24 @@ I'm currently an engineering student seeking internships and job opportunities. 
 
 ---
 
-### My GitHub Stats
+---
 
-![Dhanyasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanyasri7&show_icons=true&theme=radical)
+### 📊 My GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dhanyasri7&show_icons=true&theme=radical" alt="Dhanyasri's GitHub Stats" height="180"/>
+      </td>
+      <td>
+        <img src="https://i.pinimg.com/236x/d1/6c/7f/d16c7fb0d686f7cfa8b1421272c1196a.jpg" alt="Dhanya's Image" height="180" style="border-radius:15px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ### Top Languages
 
