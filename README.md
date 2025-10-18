@@ -14,6 +14,13 @@ I'm currently an engineering student seeking internships and job opportunities. 
 - ⚡ Fun fact: I love photography and music.
 
 ---
+<h3 align="center">🏅 My Holopin Badges</h3>
+
+<p align="center">
+  <a href="https://holopin.io/@dhanyasri7">
+    <img src="https://holopin.me/dhanyasri7" alt="@dhanyasri7's Holopin board" />
+  </a>
+</p>
 
 ---
 
