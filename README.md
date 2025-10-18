@@ -23,6 +23,14 @@ I'm currently an engineering student seeking internships and job opportunities. 
 </p>
 
 ---
+<h3 align="center">🏅 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanyasri7&theme=dracula&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
 
 ### 📊 My GitHub Stats
 
